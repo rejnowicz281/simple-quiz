@@ -28,3 +28,9 @@ main section{
   align-items: center;
   height: 25%;
 }
+.question{
+  margin-right: 40px;
+}
+label{
+  margin-right: 10px;
+}
