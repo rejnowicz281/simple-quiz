@@ -22,3 +22,9 @@ main{
   font-size: 1.25em;
   font-style: italic;
 }
+main section{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 25%;
+}
